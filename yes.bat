@@ -1,1 +1,1 @@
-start msedge.exe "https://youtu.be/bZe5J8SVCYQ?si=NVmy1UzeJ1IV_-8I"
+start msedge.exe "https://gist.github.com/MattIPv4/045239bc27b16b2bcf7a3a9a4648c08a"
