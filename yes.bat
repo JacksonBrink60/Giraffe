@@ -1,1 +1,1 @@
-start chrome.exe "https://youtu.be/paq6sVkkEg0?si=EEwW0_1ULAKWSEdv&t=12"
+start chrome.exe "https://youtu.be/k7YVxLLIuGM?si=WurRB9ppr9v1uj2h"
